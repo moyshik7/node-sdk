@@ -1,7 +1,8 @@
 # Top.gg Node SDK
 
 An official module for interacting with the Top.<span>gg API
-
+(This is an unofficial version forked from the original)  
+(I made it for my personal use [The autopost feature] don't judge me)  
 # Installation
 
 `yarn add @top-gg/sdk` or `npm i @top-gg/sdk`
